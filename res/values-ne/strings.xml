@@ -1473,7 +1473,7 @@
     <string name="system_update_settings_list_item_title" msgid="3398346836439366350">"प्रणाली  अद्यावधिकहरू"</string>
     <string name="system_update_settings_list_item_summary" msgid="6703752298349642101"></string>
     <string name="firmware_version" msgid="1606901586501447275">"Android संस्करण"</string>
-    <string name="security_patch" msgid="4071756145347865382">"Android को सुरक्षासम्बन्धी अपडेट"</string>
+    <string name="custom_firmware_version">"ProtonAOSP संस्करण"</string>
     <string name="model_info" msgid="8997566254717810904">"मोडेल"</string>
     <string name="hardware_info" msgid="7035211991066637019">"मोडेल तथा हार्डवेयर"</string>
     <string name="hardware_revision" msgid="3454709180861965025">"हार्डवेयरको संस्करण"</string>
