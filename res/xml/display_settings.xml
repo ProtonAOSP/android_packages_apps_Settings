@@ -131,6 +131,12 @@
         settings:controller="com.android.settings.security.screenlock.LockScreenPreferenceController" />
 
     <SwitchPreference
+        android:key="touch_sens"
+        android:title="@string/touch_sens_title"
+        settings:keywords="@string/touch_sens_summary"
+        settings:controller="com.android.settings.display.TouchSensitivityPreferenceController" />
+
+    <SwitchPreference
         android:key="camera_gesture"
         android:title="@string/camera_gesture_title"
         android:summary="@string/camera_gesture_desc" />
